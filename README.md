@@ -1,2 +1,3 @@
 # FoodPack
-FoodPack is a website template for  businesses like restaurants and pizza shops etc
+FoodPack is a responsive website for all devices like mobile phone, dektop and tabplates 
+
